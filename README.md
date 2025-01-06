@@ -3,7 +3,7 @@ Blockchain Developer
 
 Software Engineer passionate about building innovative and efficient decentralized solutions. Proven ability to deliver high-quality smart contracts and dApps, with a strong focus on security and best practices.
 
-Engmuhammadjehanzaib@gmail.com | Sialkot, Pakistan | linkedin.com/in/muhammad-jehanzaib-897613197 | github.com/muhammadjehanzaib
+Engmuhammadjehanzaib@gmail.com | Sialkot, Pakistan | https://www.linkedin.com/in/muhammad-jehanzaib-897613197 
 
 ---
 
@@ -64,53 +64,16 @@ Engmuhammadjehanzaib@gmail.com | Sialkot, Pakistan | linkedin.com/in/muhammad-je
 ## Certificates
 
 *   Certified Blockchain Developer
-*   Certified Blockchain Ethereum Developer## Skills
+*   Certified Blockchain Ethereum Developer
+*   Certified Internet of Things Developer  
 
-**Smart Contract Development:**
-
-[![Solidity](https://img.shields.io/badge/Solidity-EEEEEE?style=for-the-badge&logo=solidity&logoColor=black)](https://soliditylang.org/)
-[![Vyper](https://img.shields.io/badge/Vyper-1A1A1A?style=for-the-badge&logo=vyper&logoColor=white)](https://vyper.readthedocs.io/en/stable/)
-[![Foundry](https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logoColor=white)](https://getfoundry.sh/)
-[![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logoColor=white)](https://remix.ethereum.org/)
-`Smart Contract Testing`
-`Smart Contract Auditing`
-
-**Backend Development:**
-
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-`Distributed Systems`
-
-**Frontend Development:**
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logoColor=white)](https://web3js.readthedocs.io/en/v1.10.0/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-**Databases:**
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-**Other:**
-
-[![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logoColor=white)](https://web3js.readthedocs.io/en/v1.10.0/)
-*   Certified Internet of Things Developer
-
----
 
 ## Languages
 
-English (Fluent) 
+* English (Fluent) 
 
-Urdu (Native) 
+* Urdu (Native) 
 
-Punjabi (Native) 
+* Punjabi (Native) 
 
 ---
