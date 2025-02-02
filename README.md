@@ -72,7 +72,7 @@ Engmuhammadjehanzaib@gmail.com | Sialkot, Pakistan |
 ## Personal Projects
 
 *   **Merkle Airdrop Contract:** Implemented a secure and efficient token distribution mechanism using Merkle trees. This Solidity smart contract allows users to claim airdropped tokens by providing a Merkle proof, leveraging OpenZeppelin's SafeERC20 and MerkleProof libraries. [Link to Repository]
-*   **Decentralized Stablecoin Engine (DSCEngine):** Built a robust and secure Decentralized Stablecoin Engine smart contract in Solidity. This contract allows users to mint a decentralized stablecoin (DSC) by depositing collateral in supported tokens. The system employs a health factor mechanism and utilizes Chainlink oracles for reliable price feeds. [Link to Repository]
+*   **Decentralized Stablecoin Engine (DSCEngine):** Built a robust and secure Decentralized Stablecoin Engine smart contract in Solidity. This contract allows users to mint a decentralized stablecoin (DSC) by depositing collateral in supported tokens. The system employs a health factor mechanism and utilizes Chainlink oracles for reliable price feeds.
 
 ## Certificates
 
